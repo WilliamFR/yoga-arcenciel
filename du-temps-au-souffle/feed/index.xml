@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : Du temps au souffle.	</title>
+	<atom:link href="/du-temps-au-souffle/feed/" rel="self" type="application/rss+xml" />
+	<link>/du-temps-au-souffle/</link>
+	<description>Yoga nu pour hommes Paris</description>
+	<lastBuildDate>Wed, 30 Jan 2019 06:50:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>
+		Par : Rô		</title>
+		<link>/du-temps-au-souffle/#comment-78</link>
+
+		<dc:creator><![CDATA[Rô]]></dc:creator>
+		<pubDate>Wed, 30 Jan 2019 06:50:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3042#comment-78</guid>
+
+					<description><![CDATA[Merci Yogi Daniel
+&quot;L&#039;asana est accomplie quand l&#039;effort est devenu sans effort et que l&#039;infini en nous est réalisé.&quot;]]></description>
+			<content:encoded><![CDATA[<p>Merci Yogi Daniel<br />
+« L&rsquo;asana est accomplie quand l&rsquo;effort est devenu sans effort et que l&rsquo;infini en nous est réalisé. »</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
