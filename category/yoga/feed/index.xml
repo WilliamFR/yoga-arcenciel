@@ -12,7 +12,7 @@
 	<atom:link href="/category/yoga/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Yoga nu pour hommes Paris</description>
-	<lastBuildDate>Wed, 24 Apr 2024 10:11:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Apr 2024 19:03:17 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les secrets de l&#8217;épanouissement personnel grâce au Yoga Nu</title>
+		<link>/les-secrets-de-lepanouissement-personnel-grace-au-yoga-nu/</link>
+		
+		<dc:creator><![CDATA[Jean-Philippe]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 18:45:11 +0000</pubDate>
+				<category><![CDATA[Méditation]]></category>
+		<category><![CDATA[Yoga]]></category>
+		<guid isPermaLink="false">/les-secrets-de-lepanouissement-personnel-grace-au-yoga-nu/</guid>
+
+					<description><![CDATA[Les secrets de l&#8217;épanouissement personnel grâce au Yoga Nu Commencer sa journée avec une séance de yoga nu peut révéler des bienfaits insoupçonnés pour l&#8217;épanouissement personnel. Le lien étroit entre la pratique du yoga nu et le développement de soi permet d&#8217;explorer des dimensions profondes [&#8230;]]]></description>
+		
+		
+		<enclosure url="https://media.yoga-arcenciel.com/file/h_720/ArcenCiel/salutation-soleil.webm" length="28135342" type="video/webm" />
+<enclosure url="https://media.yoga-arcenciel.com/file/h_720/ArcenCiel/salutation-soleil.mp4" length="51491140" type="video/mp4" />
+<enclosure url="https://media.yoga-arcenciel.com/file/h_720/ArcenCiel/salutation-soleil.ogv" length="0" type="video/ogg" />
+
+			</item>
+		<item>
 		<title>5 conseils pour équilibrer Bien-Être, Yoga Nu et Société</title>
 		<link>/5-conseils-pour-equilibrer-bien-etre-yoga-nu-et-societe/</link>
 		
@@ -102,25 +120,6 @@
 
 					<description><![CDATA[Après cette pandémie mondiale, le monde d’après sera-t-il différent du monde d’avant ? Une grande question qui fait couler beaucoup d’encre ces temps-ci. La pandémie du virus covid-19 aura clairement bouleversé certaines attitudes, certains comportements et surtout cela nous a permis d’avoir une vision différente du [&#8230;]]]></description>
 		
-		
-		
-			</item>
-		<item>
-		<title>Pratiquer : pourquoi ? Comment ?</title>
-		<link>/pratiquer-pourquoi-comment/</link>
-					<comments>/pratiquer-pourquoi-comment/#comments</comments>
-		
-		<dc:creator><![CDATA[Yogi Daniel]]></dc:creator>
-		<pubDate>Sat, 02 Jan 2021 11:27:42 +0000</pubDate>
-				<category><![CDATA[Philosophie]]></category>
-		<category><![CDATA[Pratique]]></category>
-		<category><![CDATA[Yoga]]></category>
-		<guid isPermaLink="false">/?p=4934</guid>
-
-					<description><![CDATA[Lorsque nous mettons pour la première fois un tapis de yoga au sol, nous ne pouvons pas imaginer où nous mènera le chemin sur lequel nous nous engageons. Les raisons qui nous poussent à pratiquer le yoga sont très diverses, comme une prise de conscience [&#8230;]]]></description>
-		
-					<wfw:commentRss>/pratiquer-pourquoi-comment/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
 		
 		
 			</item>
